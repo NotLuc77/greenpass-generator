@@ -37,8 +37,8 @@ DATA = {
             "nam": {
                 "fnt": "Goebbels",
                 "fn": "Goebbels",
-                "gnt": "Paul Joseph",
-                "gn": "Paul Joseph"
+                "gnt": "Lucas Pietra"
+                "gn": "Lucas Pietra"
             },
             "ver": "1.0.0",
             "dob": "1897-10-29"
